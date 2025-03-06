@@ -21,16 +21,22 @@ IP-CIDR,219.141.136.10/32,no-resolve
 IP-CIDR,221.179.155.177/32,no-resolve
 IP-CIDR,219.141.140.10/32,no-resolve
 IP-CIDR,221.179.155.161/32,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,114.114.114.114/32,no-resolve
+IP-CIDR,114.114.115.115/32,no-resolve
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.147.1.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
-IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
-IP-CIDR,114.114.114.114/32,no-resolve
-IP-CIDR,114.114.115.115/32,no-resolve
 
-
+# tailscale内部IP
+IP-CIDR,100.71.203.41/32,no-resolve
+IP-CIDR,100.67.55.12/32,no-resolve
+IP-CIDR,100.69.55.13/32,no-resolve
+IP-CIDR,100.94.77.54/32,no-resolve
+IP-CIDR,100.64.55.14/32,no-resolve
+IP-CIDR,100.64.55.15/32,no-resolve
 
 
 # 360
