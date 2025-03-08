@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,90dao.com
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,cloudflare.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
