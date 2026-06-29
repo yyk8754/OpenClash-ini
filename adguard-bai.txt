@@ -71,3 +71,4 @@
 # 补充自定义模板（你可自行添加）
 # @@||example.com^
 # @@||shturl.cc/FX^
+# @@||grokipedia.com^
