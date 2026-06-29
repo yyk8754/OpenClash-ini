@@ -1,0 +1,73 @@
+# ==============================
+# AdGuard 白名单通用规则
+# 格式 @@||域名^ 放行全站
+# 以 # 开头为注释，不生效
+# ==============================
+
+# 国内常用视频/影音
+@@||bilibili.com^
+@@||iqiyi.com^
+@@||youku.com^
+@@||shturl.cc/7vBMly^
+@@||mgtv.com^
+@@||douyin.com^
+@@||tiktok.com^
+@@||kuaishou.com^
+
+# 社交通讯
+@@||weixin.qq.com^
+@@||qq.com^
+@@||xiaohongshu.com^
+@@||weibo.com^
+@@||163.com^
+@@||sina.com.cn^
+
+# 办公云盘
+@@||aliyun.com^
+@@||baidu.com^
+@@||feishu.cn^
+@@||dingtalk.com^
+@@||office.com^
+@@||docs.qq.com^
+
+# 支付金融
+@@||alipay.com^
+@@||tenpay.com^
+@@||ccb.com^
+@@||icbc.com.cn^
+
+# 工具搜索
+@@||baidu.com^
+@@||bing.com^
+@@||google.com^
+@@||zhihu.com^
+@@||csdn.net^
+@@||github.com^
+
+# 购物平台
+@@||taobao.com^
+@@||tmall.com^
+@@||jd.com^
+@@||pinduoduo.com^
+@@||suning.com^
+
+# 本地/路由器后台（局域网放行）
+@@||192.168.88.1^
+@@||192.168.88.1^
+@@||192.168.1.1^
+@@||router.local^
+
+# 流媒体音乐
+@@||qq.com^
+@@||netease.com^
+@@||kugou.com^
+@@||kuwo.cn^
+
+# 游戏相关
+@@||steamcommunity.com^
+@@||store.steampowered.com^
+@@||game.qq.com^
+
+# 补充自定义模板（你可自行添加）
+# @@||example.com^
+# @@||shturl.cc/FX^
